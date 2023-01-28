@@ -1,5 +1,6 @@
 # 20-Days-of-code-streak-21BCG10033
-Topics:-
+Topics:-    
+
 Day 1.  09/01/2023-Find the area of a triangle by giving sides as input.  
 Day 2.  10/01/2023-Function to add numbers from 1 to the given number.   
 Day 3.  11/01/2023-Matchstick house problem.   
